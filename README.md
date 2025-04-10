@@ -1,9 +1,11 @@
-# hello-world
+# About Me
+
+My name is Stan Jack Smith.
 
 ## Brief
 
-   • New Developer
-   • I [!🛄][Nuthouse Management Group](nuthousemgmtgroup.online)
-   • Manage for [Newspaper Media Agency](newspapermediaagency.github.io)
-   • Community Develop
-This repository is for practicing the Github Flow.  
+- New Developer!
+- [!🛄][Nuthouse Management Group](nuthousemgmtgroup.online)
+- Manage for [Newspaper Media Agency](newspapermediaagency.github.io)
+- Communities Development Advisor
+-  Recruiter for Newspaper Division
